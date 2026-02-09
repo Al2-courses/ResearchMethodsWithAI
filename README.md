@@ -50,9 +50,9 @@ meaningfully to the fields of economics and politics. 🌟📊🔍
 
 **Class Attendance: Mandatory**
 
-**[The Google Classroom link for the Research Method course is here:](https://classroom.google.com/c/ODM3NTY0NDE5NjAx?cjc=pfptkbhw)**
+**[The Google Classroom link for the Research Method course](https://classroom.google.com/c/ODM3NTY0NDE5NjAx?cjc=pfptkbhw)**
 
-**Class Code: pfptkbhw**
+**Class Code:pfptkbhw**
 
 ---
 **Readings**
