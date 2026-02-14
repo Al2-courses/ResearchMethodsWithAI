@@ -41,6 +41,7 @@ Remember, research methodologies are not static; they evolve alongside technolog
 
 ---
 **Readings**
+
 Deirdre N. McCloskey. 2000 [1986]. Economical Writing. Chicago:Chicago Univiersity Press.
 
 Eylül Kösel and Altuğ Yalçıntaş. 2025. AI-Assisted Research Methods. Ankara: Efil. 
