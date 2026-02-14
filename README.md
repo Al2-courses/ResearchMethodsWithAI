@@ -14,6 +14,7 @@ Department of Politics and Economics, Ankara University
 - Çağıl Derköken
     - **Mail:** derkoken_cagil[at]icloud.com
     - [**Personal Site**](https://cagilderkoken.github.io)
+- AI Assistant: Click here to have a chat(https://gemini.google.com/gem/1WrXMP0u-6fJ6-YodfsXjmSpkshlocCy6?usp=sharing)
 ---
 ## Course Overview
 
@@ -41,6 +42,7 @@ Remember, research methodologies are not static; they evolve alongside technolog
 ---
 **Readings**
 Deirdre N. McCloskey. 2000 [1986]. Economical Writing. Chicago:Chicago Univiersity Press.
+
 Eylül Kösel and Altuğ Yalçıntaş. 2025. AI-Assisted Research Methods. Ankara: Efil. 
 
 ---
