@@ -14,7 +14,7 @@ Department of Politics and Economics, Ankara University
 - Çağıl Derköken
     - **Mail:** derkoken_cagil[at]icloud.com
     - [**Personal Site**](https://cagilderkoken.github.io)
-- AI Assistant: Click here to have a chat(https://gemini.google.com/gem/1WrXMP0u-6fJ6-YodfsXjmSpkshlocCy6?usp=sharing)
+- AI Assistant: [Click here to have a chat](https://gemini.google.com/gem/1WrXMP0u-6fJ6-YodfsXjmSpkshlocCy6?usp=sharing)
 ---
 ## Course Overview
 
